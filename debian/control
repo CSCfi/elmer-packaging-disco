@@ -2,7 +2,7 @@ Source: elmerfem-csc
 Section: science
 Priority: optional
 Maintainer: Juhani Kataja <juhmat@gmail.com>
-Build-Depends: cmake, build-essential, liblapack-dev, libblas-dev, libblas3, libopenmpi-dev, openmpi-bin, libmumps-dev, libhypre-dev, gfortran, gcc, g++, libparmetis-dev, libmetis-dev
+Build-Depends: cmake, build-essential, liblapack-dev, libblas-dev, libblas3, libopenmpi-dev, openmpi-bin, libmumps-dev, libhypre-dev, gfortran, gcc, g++, libparmetis-dev, libmetis-dev, libgl1-mesa-dev, qtbase5-dev, qtscript5, libqt5svg5, libqwt-qt5-dev, libvtk7-dev
 Homepage: http://www.elmerfem.org
 
 Package: elmerfem-csc
